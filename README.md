@@ -1,4 +1,4 @@
-# Cloud Computing Assignment 2
+Wine Quality Prediction
 1. Create EMR Cluster on AWS using key pair and 4 instances
 
 2. Enable SSH inbould rule for port 22 in security group of EMR Master
